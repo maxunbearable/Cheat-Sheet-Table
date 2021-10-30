@@ -1,0 +1,51 @@
+h1,h2{
+    text-align: center;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    border: 2px solid black;
+}
+td{
+    border-top: 2px solid black;
+}
+table{
+    background:linear-gradient(90deg,FireBrick,DarkRed) ;
+}
+body{
+    background:linear-gradient(90deg,#333333,#0d0d0d );
+}
+h1, h2, p, th, td{
+color: #cccccc;
+}
+p, td{
+font-size: 16px;
+font-weight: 600;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 26px;
+}
+table{
+    margin-left:auto; 
+    margin-right:auto;
+    padding: 10px 10px 10px 10px;
+}
+td,th{
+    padding: 10px 10px 10px 10px;
+}
+th{
+    font-size: 20px;
+    font-weight: 900;  
+}
+p{
+    text-align: center;
+    color:gray;
+}
+thead{
+    background:linear-gradient(90deg,#861a1a,#6b1414) ; 
+    
+}
